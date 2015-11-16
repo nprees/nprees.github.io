@@ -5,8 +5,8 @@
     <description>Recent computer science graduate. Passionate about big data visualisation.</description>
     <link>http://nprees.github.io/</link>
     <atom:link href="http://nprees.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Nov 2015 00:36:17 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2015 00:36:17 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2015 01:22:54 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2015 01:22:54 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       
@@ -149,12 +149,12 @@
 &lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;/assets/img/space.jpeg&quot; alt=&quot;&quot;&gt;
+    &lt;img src=&quot;/assets/img/touring.jpg&quot; alt=&quot;&quot;&gt; 
     &lt;figcaption&gt;Fig1. - This is an example figcaption&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/assets/img/space.jpeg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/assets/img/touring.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; 
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Fig1. - This is an example figcaption&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
@@ -185,7 +185,7 @@
 
 &lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/space.jpeg&quot; alt=&quot;&quot;&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/touring.jpg&quot; alt=&quot;&quot;&gt; &lt;/p&gt;
 
 &lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
 
