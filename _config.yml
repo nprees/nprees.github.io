@@ -1,12 +1,14 @@
 # Site settings
 title: Nicholas Rees
 header-img: img/four.jpeg
+subtitle: "Hello!"
 email: nicholas.rees@live.co.uk
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://nprees.github.io"
 twitter_username: nprees
 github_username:  nprees
+linkedin_username:  nprees
 facebook_username:  IronSummitMedia
 
 # Build settings
