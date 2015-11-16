@@ -1,26 +1,17 @@
-title: Nicholas Rees
-description: Recent computer science graduate. Passionate about big data visualisation.
+# Site settings
+title: Clean Blog
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "/startbootstrap-clean-blog-jekyll"
+url: "http://yourdomain.com"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
 
-url: http://nprees.github.io
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
-
-markdown: redcarpet
+# Build settings
+markdown: kramdown
 highlighter: pygments
+permalink: pretty
 paginate: 5
-
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
-
-social:
-   github: nprees
-   twitter: nprees
-   email: nicholas.rees@live.co.uk
-
-google_analytics: "UA-58263416-1"
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
