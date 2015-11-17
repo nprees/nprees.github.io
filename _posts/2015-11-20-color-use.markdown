@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Implementing Fuzzy Logic for Autocomplete Inputs in JavaScript"
-subtitle:   "expanding the functionality of standard autocomplete features using various algorithms, which is best?"
+title:      "Article about using color"
+subtitle:   "keeping a user engaged is as important and the information on display"
 date:       2015-11-20 12:00:00
 author:     "Nicholas Rees"
 header-img: "img/eleventwo.jpg"

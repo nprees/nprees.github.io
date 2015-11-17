@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Implementing Fuzzy Logic for Autocomplete Inputs in JavaScript"
-subtitle:   "expanding the functionality of standard autocomplete features using various algorithms, which is best?"
+title:      "Visualising Big Data"
+subtitle:   "the balance between being too abstract and overly complex"
 date:       2015-11-20 12:00:00
 author:     "Nicholas Rees"
 header-img: "img/eleventwo.jpg"
