@@ -1,27 +1,19 @@
+# Site settings
 title: Nicholas Rees
-description: Recent computer science graduate. Passionate about big data visualisation.
+header-img: img/four.jpeg
+footer-img: img/newfive.jpeg
+subtitle: "Hello!"
+email: nicholas.rees@live.co.uk
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "http://www.nprees.com"
+url: "http://www.nprees.com"
+email_address: nick@nprees.com
+twitter_username: nprees
+linkedin_username:  nprees
 
-url: http://nprees.github.io
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
-
-markdown: redcarpet
+# Build settings
+markdown: kramdown
 highlighter: pygments
+permalink: pretty
 paginate: 5
-
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
-
-social:
-   github: nprees
-   linkedin: nprees
-   twitter: nprees
-   email: nicholas.rees@live.co.uk
-
-google_analytics: "UA-58263416-1"
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
