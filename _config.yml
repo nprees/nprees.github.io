@@ -9,9 +9,7 @@ baseurl: "http://www.nprees.com"
 url: "http://www.nprees.com"
 email_address: nick@nprees.com
 twitter_username: nprees
-github_username:  nprees
 linkedin_username:  nprees
-facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
