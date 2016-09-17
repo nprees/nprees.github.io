@@ -1,6 +1,6 @@
 # Site settings
 title: Nicholas Rees
-header-img: img/four.jpeg
+header-img: img/newfivesmall.jpg
 footer-img: img/newfive.jpeg
 contact-img: img/fifteen.jpg
 subtitle: "Hello!"
@@ -19,3 +19,4 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate]
