@@ -4,7 +4,7 @@ title:      "It Always Starts With a Blank Canvas"
 subtitle:   ""
 date:       2016-09-17 00:45:00
 author:     "Nicholas Rees"
-header-img: "img/newfour.jpeg"
+header-img: "img/newfivesmall.jpg"
 ---
 
 <h2>Where to Begin </h2>

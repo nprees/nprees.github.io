@@ -1,12 +1,12 @@
 # Site settings
 title: Nicholas Rees
 header-img: img/newfivesmall.jpg
-footer-img: img/newfive.jpeg
+footer-img: img/newfivetest.jpg
 contact-img: img/fifteen.jpg
 subtitle: "Hello!"
 email: nicholas.rees@live.co.uk
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "http://www.nprees.com"
+baseurl: ""
 url: "http://www.nprees.com"
 avatar: img/profile.jpg
 email_address: nick@nprees.com
