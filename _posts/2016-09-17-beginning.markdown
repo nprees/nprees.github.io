@@ -13,4 +13,4 @@ header-img: "img/newfivesmall.jpg"
 
 <p>The idea is to build a library that can work like a puzzle, where pieces seamlessly fit on top of one another in such a way that the visuals are neither boring nor repetitive, but will still carry the desired visual identity.</p>
 
-<p>From the outset, It’s important not to be blinded by any seemingly unsurmountable obstacles, which means approaching this in one small, minute, step at a time.</p>
+<p>From the outset, It’s important not to be blinded by any seemingly unsurmountable obstacles, which means approaching this in one step at a time.</p>

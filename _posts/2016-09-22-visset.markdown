@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Those Important First Decisions"
+subtitle:   ""
+date:       2016-09-22 1:05:00
+author:     "Nicholas Rees"
+header-img: "img/newfivesmall.jpg"
+---
+
+<h2>Not forgetting those that will inevitably change</h2>
+
+<p>Choosing a base visualisation set is more about choosing what not to include than trying to find something to include. There are so many interesting ways to visualise the data we have but only a limited amount of time to get these developed.</p>
+
+<p>The basics, such as the bar, line and column charts but also others that are quirky, radial bars or winding paths to name a few. This is not only about building an informative visualisation for the user, it’s also about making these interesting too.</p>
