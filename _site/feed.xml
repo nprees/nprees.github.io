@@ -5,9 +5,24 @@
     <description>Write your site description here. It will be used as your sites meta description as well!</description>
     <link>http://www.nprees.com/</link>
     <atom:link href="http://www.nprees.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 17 Sep 2016 02:26:42 +0100</pubDate>
-    <lastBuildDate>Sat, 17 Sep 2016 02:26:42 +0100</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 01:20:02 +0100</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 01:20:02 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Those Important First Decisions</title>
+        <description>&lt;h2&gt;Not forgetting those that will inevitably change&lt;/h2&gt;
+
+&lt;p&gt;Choosing a base visualisation set is more about choosing what not to include than trying to find something to include. There are so many interesting ways to visualise the data we have but only a limited amount of time to get these developed.&lt;/p&gt;
+
+&lt;p&gt;The basics, such as the bar, line and column charts but also others that are quirky, radial bars or winding paths to name a few. This is not only about building an informative visualisation for the user, it’s also about making these interesting too.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Sep 2016 02:05:00 +0100</pubDate>
+        <link>http://www.nprees.com/2016/09/22/visset/</link>
+        <guid isPermaLink="true">http://www.nprees.com/2016/09/22/visset/</guid>
+        
+        
+      </item>
     
       <item>
         <title>It Always Starts With a Blank Canvas</title>
@@ -17,7 +32,7 @@
 
 &lt;p&gt;The idea is to build a library that can work like a puzzle, where pieces seamlessly fit on top of one another in such a way that the visuals are neither boring nor repetitive, but will still carry the desired visual identity.&lt;/p&gt;
 
-&lt;p&gt;From the outset, It’s important not to be blinded by any seemingly unsurmountable obstacles, which means approaching this in one small, minute, step at a time.&lt;/p&gt;
+&lt;p&gt;From the outset, It’s important not to be blinded by any seemingly unsurmountable obstacles, which means approaching this in one step at a time.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Sep 2016 01:45:00 +0100</pubDate>
         <link>http://www.nprees.com/2016/09/17/beginning/</link>
